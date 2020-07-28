@@ -1,5 +1,5 @@
 # Lambert_problem_matlab
-MATLAB code for Interplanetary trajectory design
+MATLAB code for Interplanetary trajectory design by solving Classical Lambert problem and twi body problem.
 
 
 **Some Resutls**
